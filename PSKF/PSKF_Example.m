@@ -2,7 +2,7 @@
 % Code by Sivan Toledo 2017
 
 %% YOUR DATA GOES HERE
-dat=load('D:\GD\minerva_projects\kalman\locs.txt','-ascii');
+dat=load('example_locs.txt','-ascii');
 
 %column numbers in ascii file
 TIME = 2;
